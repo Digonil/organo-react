@@ -1,4 +1,4 @@
-import '/home/digonil/Documents/cursos_frontend/organo/src/componentes/ListaSuspensa/ListaSupensa.css'
+import './ListaSuspensa.css'
 
 const ListaSuspensa = (props) => {
 
